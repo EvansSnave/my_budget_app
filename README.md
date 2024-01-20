@@ -87,7 +87,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
   cd my-folder
-  git clone https://github.com/EvansSnave/Budget_App.git
+  git clone https://github.com/EvansSnave/my_budget_app.git
 
 ### Install
 
@@ -130,7 +130,7 @@ To test each unit tests of the project, execute the following command in your ro
 
 Contributions, issues, and feature requests are welcome!
 
-> Feel free to check the [issues page](https://github.com/EvansSnave/Budget_App/issues).
+> Feel free to check the [issues page](https://github.com/EvansSnave/my_budget_app/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
