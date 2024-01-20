@@ -25,7 +25,7 @@
   - [📝 License ](#-license-)
 
 # 📖Budget App<a name="about-project"></a>
-> `Budget App` is a rails application which allows customers to create transactions and the money they've spent on them. They will be able to create new transactions with categories. Original idea from Gregoire Vella on Behance.
+> `Budget App` is a rails application which allows customers to create transactions and the money they've spent on them. They will be able to create new transactions with categories.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -104,7 +104,8 @@ To run the project, execute the following command:
 
   - Run the command `rails server`
   - Start the rails server and append the corresponding `urls pattern`.
-Preview [here](https://budget-app-za5v.onrender.com/)
+  - Preview [here](https://budget-app-za5v.onrender.com/)
+  - Showcase video [here](https://drive.google.com/file/d/12on-md0O7l4_j1ia5EEhKdcs7_G1rWUw/view?usp=sharing)
 
 ### Test
 
@@ -143,6 +144,7 @@ Contributions, issues, and feature requests are welcome!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank ruby on rails guide which is full of rich information and again Microverse that provides the right material that helps me to improve skills on RoRs.
+Original idea from Gregoire Vella on Behance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

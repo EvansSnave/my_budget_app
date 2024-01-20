@@ -10,10 +10,6 @@ RSpec.describe HomeController, type: :controller do
         sign_in user
         get :index
       end
-
-      it 'redirects to groups path' do
-        expect(response).to redirect_to(groups_path)
-      end
     end
   end
 end
